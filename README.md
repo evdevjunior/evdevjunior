@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evdevjunior&show_icons=true&theme=dark)  
 
+## Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evdevjunior&repo=github-readme-stats&theme=dark)](https://github.com/evdevjunior/github-readme-stats)
+
 ## Minhas Habilidades.
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.w3schools.com/java/default.asp)   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
