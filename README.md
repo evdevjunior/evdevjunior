@@ -4,7 +4,7 @@
 
 ## Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evdevjunior&repo=github-readme-stats&theme=dark)](https://github.com/evdevjunior/github-aprendendojava_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evdevjunior&repo=github-readme-stats&theme=dark)]([https://github.com/evdevjunior/github-aprendendojava_2](https://github.com/evdevjunior/aprendendojava_2))
 
 ## Minhas Habilidades.
 
