@@ -1,5 +1,5 @@
 ## Olá! seja bem vindo ao meu perfil. 👨🏽‍🎓
-#### Meu sou estudante de Análise e Desenvolvimento de Sistemas, atualmete estou iniciando na linguagem Java, meu fóco e ser um desenvolvedor Java FullStack com Angular ou React. No momento não tenho projetos em meu perfil, estou focando na base em algoritimos e o ecossistema do Java para poder avançar com uma base mais sólida, percebi que estava perdido sem saber aonde ir, hoje sei bem onde quero chegar e as tecnologias que precisarei utilizar.
+#### Sou estudante de Análise e Desenvolvimento de Sistemas e atualmete estou iniciando na linguagem Java, meu fóco e ser um desenvolvedor Java FullStack com Angular ou React. No momento não tenho projetos muitos projetos em meu perfil, estou focando na base em algoritimos e o ecossistema do Java para poder avançar com uma base mais sólida. Percebi que estava perdido sem saber aonde ir, hoje sei bem onde quero chegar e as tecnologias que precisarei utilizar ao longo da minha jornada.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evdevjunior&show_icons=true&theme=dark)  
 
